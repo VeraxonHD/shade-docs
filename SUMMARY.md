@@ -1,5 +1,5 @@
 # Summary
 
 * [Landing](README.md)
-* [First Chapter](chapter1.md)
+* [Commands](chapter1.md)
 
