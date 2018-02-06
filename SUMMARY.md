@@ -17,18 +17,18 @@
   * [Userinfo/Serverinfo/Botinfo](commands/info.md)
   * [Tags](commands/tags.md)
   * [Configure](commands/configure.md)
-  
 * [Events](events/general.md)
   * [On Guild Join](events/onjoin.md)
   * [Member logs](events/member.md)
   * [Message logs](events/message.md)
   * [Voice Logs](events/voice.md)
-  
 * [Modmail](commands/modmail/general.md)
   * [Reply](commands/modmail/reply.md)
   * [Anonymous Reply](commands/modmail/anon.md)
   * [Close and Logs](commands/modmail/close.md)
 
-##Configuration
+## Configuration
+
 * [General Config Information](configure/general.md)
 * [Convars and how to edit them](configure/convars.md)
+

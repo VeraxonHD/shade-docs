@@ -9,9 +9,5 @@ Herein lies the list of commands available for Shade. Each of these commands' da
 * &lt;  &gt; is an optional command flag
 * \[    \] is a required command flag.
 
----
 
-### Help
-
-Usage: `!!help <command name>`
 
