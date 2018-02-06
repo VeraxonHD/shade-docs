@@ -8,4 +8,6 @@
 ## Commands
 
 * [Commands](chapter1.md)
+  * [Help](commands/help.md)
+  * [Ping](commands/ping.md)
 
