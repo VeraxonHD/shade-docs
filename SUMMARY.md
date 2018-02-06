@@ -17,6 +17,8 @@
   * [Userinfo/Serverinfo/Botinfo](commands/info.md)
   * [Tags](commands/tags.md)
   * [Configure](commands/configure.md)
+  * [Selfrole](commands/selfrole.md)
+  * [Role](commands/role.md)
 * [Events](events/general.md)
   * [On Guild Join](events/onjoin.md)
   * [Member logs](events/member.md)
@@ -30,5 +32,5 @@
 ## Configuration
 
 * [General Config Information](configure/general.md)
-* [Convars and how to edit them](configure/convars.md)
+* [Convars](configure/convars.md)
 
